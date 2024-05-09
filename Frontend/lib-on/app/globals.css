@@ -1,5 +1,25 @@
-@import 'tailwindcss/base';
-@import 'tailwindcss/components';
-@import 'tailwindcss/utilities';
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
 
 /* Path: Frontend/lib-on/app/globals.css */
+.main {
+  width: 100vw;
+  min-height: 100vh;
+  position: fixed;
+  display: flex;
+  justify-content: center;
+  padding: 120px 24px 160px 24px;
+  pointer-events: none;
+}
+.header {
+  background-color: #eceaea;
+  border-bottom: 1px solid #eaeaea;
+  padding: 10px 0;
+}
+.header > h1,
+.header > p {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
