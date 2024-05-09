@@ -4,10 +4,16 @@ import { MONGO_URI } from "./config.js";
 import { Book } from "./models/bookmodel.js";
 import portfinder from "portfinder";
 import route from "./route/route.js";
+import cors from "cors";
 const app = express();
 app.use(express.json());
 
+//middleware for CORS policy
 
+app.use(cors(
+
+
+));
 app.get("/", (req, res) => {
   res.send("Hello World");
 });
