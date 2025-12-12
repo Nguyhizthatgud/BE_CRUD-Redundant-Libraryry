@@ -1,21 +1,21 @@
 {
-  "name": "backend-bookshelves",
-  "version": "1.0.0",
-  "description": "",
-  "type": "module",
-  "main": "index.js",
+  "name": "backend",
+  "version": "0.0.0",
+  "private": true,
   "scripts": {
-    "start": "nodemon index.js",
-    "dev": "nodemon index.js"
+    "start": "node ./bin/www",
+    "dev": "nodemon ./bin/www"
   },
-  "author": "",
-  "license": "ISC",
   "dependencies": {
+    "cookie-parser": "~1.4.4",
     "cors": "^2.8.5",
-    "express": "^4.19.2",
-    "mongodb": "^6.5.0",
-    "mongoose": "^8.3.2",
-    "nodemon": "^3.1.0",
-    "portfinder": "^1.0.32"
+    "debug": "~2.6.9",
+    "dotenv": "^17.2.3",
+    "express": "~4.16.1",
+    "morgan": "~1.9.1",
+    "nodemon": "^3.1.11"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
   }
 }
