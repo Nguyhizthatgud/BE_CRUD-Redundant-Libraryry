@@ -1,0 +1,504 @@
+{
+  "books": [
+    {
+      "id": "9ce70860-34cc-40a3-a09a-c2224f3fa204",
+      "author": "Clayton Bartoletti-Hintz",
+      "country": "North Macedonia",
+      "imageLink": "https://picsum.photos/seed/3ZL9kE0H/3780/3974",
+      "language": "German",
+      "pages": 523,
+      "title": "A Confederacy of Dunces",
+      "year": 2024
+    },
+    {
+      "id": "ecbcf574-9de1-4842-b055-6bc884a3bf3e",
+      "author": "Patsy Anderson",
+      "country": "Iceland",
+      "imageLink": "https://picsum.photos/seed/EjFrX9Dts/2243/584",
+      "language": "German",
+      "pages": 301,
+      "title": "Nightmare Abbey",
+      "year": 1954
+    },
+    {
+      "id": "1a29b587-efc7-4539-a1a9-f253c8ed6d86",
+      "author": "Jimmie Nikolaus",
+      "country": "Dominica",
+      "imageLink": "https://picsum.photos/seed/ZhvTCdTh/309/3266",
+      "language": "Spanish",
+      "pages": 74,
+      "title": "Beloved",
+      "year": 1949
+    },
+    {
+      "id": "bd272a84-6d6a-4873-808e-b23bff9d268c",
+      "author": "Mrs. Gloria Kuvalis",
+      "country": "Niger",
+      "imageLink": "https://picsum.photos/seed/CzuDlg6g/3969/606",
+      "language": "Spanish",
+      "pages": 137,
+      "title": "The Plague",
+      "year": 2015
+    },
+    {
+      "id": "6ebfb46a-10da-4ff8-94e0-54b17721c9b5",
+      "author": "Marcia Tremblay",
+      "country": "Czechia",
+      "imageLink": "https://picsum.photos/seed/IWykv/1975/462",
+      "language": "Japanese",
+      "pages": 632,
+      "title": "Uncle Tom's Cabin",
+      "year": 1951
+    },
+    {
+      "id": "fdf1fb41-37fb-4f2a-9c81-dc8beddccd33",
+      "author": "Tracy Kshlerin",
+      "country": "Democratic People's Republic of Korea",
+      "imageLink": "https://picsum.photos/seed/7dsanUeOi/985/2194",
+      "language": "German",
+      "pages": 51,
+      "title": "A Tale of Two Cities",
+      "year": 1944
+    },
+    {
+      "id": "fbcd66d1-e22e-470a-b292-c0a0833e5826",
+      "author": "Sheldon Beer",
+      "country": "Vietnam",
+      "imageLink": "https://picsum.photos/seed/9XNuiKIs/1641/269",
+      "language": "Chinese",
+      "pages": 803,
+      "title": "Romeo and Juliet",
+      "year": 1924
+    },
+    {
+      "id": "da709931-74c5-4c37-bc9c-20b0cbedc909",
+      "author": "Dr. Jonathan Grimes",
+      "country": "Montenegro",
+      "imageLink": "https://picsum.photos/seed/KbMjYqX4/1920/3346",
+      "language": "German",
+      "pages": 180,
+      "title": "A Portrait of the Artist as a Young Man",
+      "year": 1909
+    },
+    {
+      "id": "32f089ee-b7b2-42e9-accf-5aa70bd089fd",
+      "author": "Kelley Kling Sr.",
+      "country": "Liberia",
+      "imageLink": "https://picsum.photos/seed/5pJU5bJc/1067/3574",
+      "language": "German",
+      "pages": 761,
+      "title": "Austerlitz",
+      "year": 1905
+    },
+    {
+      "id": "38681eab-b2b9-46d6-8d8b-3ac869f01c67",
+      "author": "Benny Williamson",
+      "country": "Haiti",
+      "imageLink": "https://picsum.photos/seed/L00xIFuQ9/3882/1133",
+      "language": "Japanese",
+      "pages": 301,
+      "title": "Under the Volcano",
+      "year": 1969
+    },
+    {
+      "id": "34718529-70b9-48b4-943f-4e13792620b5",
+      "author": "Casey Zieme",
+      "country": "Palau",
+      "imageLink": "https://picsum.photos/seed/4l9uvNHS/3763/2509",
+      "language": "Japanese",
+      "pages": 433,
+      "title": "The Brief Wondrous Life of Oscar Wao",
+      "year": 1921
+    },
+    {
+      "id": "03bb21ad-f41f-4c4e-a21b-03b195b45ea3",
+      "author": "Teresa Hansen",
+      "country": "Thailand",
+      "imageLink": "https://picsum.photos/seed/x5VumtbP7/980/1837",
+      "language": "Portuguese",
+      "pages": 467,
+      "title": "Moby Dick",
+      "year": 2000
+    },
+    {
+      "id": "ad91f5d8-7d06-437d-8617-2b082434adbc",
+      "author": "Alma Schuppe",
+      "country": "Guinea",
+      "imageLink": "https://picsum.photos/seed/ydRh13O4vv/1113/3406",
+      "language": "Portuguese",
+      "pages": 729,
+      "title": "The Prime of Miss Jean Brodie",
+      "year": 1918
+    },
+    {
+      "id": "b4a1ade8-8774-4cdd-b15e-a0aac8e3714c",
+      "author": "Blanca Collins",
+      "country": "Ecuador",
+      "imageLink": "https://picsum.photos/seed/eCnIPppS/3506/613",
+      "language": "Spanish",
+      "pages": 457,
+      "title": "The Heart of the Matter",
+      "year": 1991
+    },
+    {
+      "id": "c258fab8-9016-4df0-a4eb-f8f36858a6fb",
+      "author": "Nora Bauch",
+      "country": "Somalia",
+      "imageLink": "https://picsum.photos/seed/sWkc8Cd2/2809/3185",
+      "language": "Spanish",
+      "pages": 287,
+      "title": "Tristram Shandy",
+      "year": 1961
+    },
+    {
+      "id": "351f36b4-0015-44d1-93fc-ea9991f0952b",
+      "author": "Ed Cremin-Funk",
+      "country": "Republic of Korea",
+      "imageLink": "https://picsum.photos/seed/3MX7RQ/3765/3266",
+      "language": "Spanish",
+      "pages": 201,
+      "title": "The Adventures of Tom Sawyer",
+      "year": 1927
+    },
+    {
+      "id": "57f3cb8b-d02e-4c14-bcfd-e264f784fdfa",
+      "author": "Mercedes Bernhard DVM",
+      "country": "Eritrea",
+      "imageLink": "https://picsum.photos/seed/iHn2kZ8Y7/3000/2014",
+      "language": "Spanish",
+      "pages": 837,
+      "title": "Tropic of Cancer",
+      "year": 1993
+    },
+    {
+      "id": "d2bac7cc-c596-4bb0-bb7b-b74f26455f8f",
+      "author": "Mattie Schneider",
+      "country": "Jersey",
+      "imageLink": "https://picsum.photos/seed/3FKbeQ3w/92/1337",
+      "language": "German",
+      "pages": 596,
+      "title": "Anna Karenina",
+      "year": 2020
+    },
+    {
+      "id": "8b2ceac1-5728-41d5-86b0-5ad456c44ec6",
+      "author": "Arturo McLaughlin",
+      "country": "Lesotho",
+      "imageLink": "https://picsum.photos/seed/KgesUX8dGS/3038/1038",
+      "language": "Chinese",
+      "pages": 685,
+      "title": "Peter Pan",
+      "year": 1927
+    },
+    {
+      "id": "1c5fc4e3-f607-4932-9144-bdbf504f5905",
+      "author": "Micheal Kuhlman",
+      "country": "Antigua and Barbuda",
+      "imageLink": "https://picsum.photos/seed/0DFv16AYWO/3760/2389",
+      "language": "English",
+      "pages": 753,
+      "title": "Deliverance",
+      "year": 2017
+    },
+    {
+      "id": "39e83c5f-b486-4ea8-99d4-03fde5fd96e5",
+      "author": "Geoffrey Hickle",
+      "country": "Svalbard & Jan Mayen Islands",
+      "imageLink": "https://picsum.photos/seed/RvQoWJ/1341/3265",
+      "language": "German",
+      "pages": 685,
+      "title": "The Alchemist",
+      "year": 2020
+    },
+    {
+      "id": "037a47bb-779e-4282-90ff-5e9370f41328",
+      "author": "Ricardo Hansen",
+      "country": "Congo",
+      "imageLink": "https://picsum.photos/seed/yj0ggU3/1734/198",
+      "language": "French",
+      "pages": 576,
+      "title": "David Copperfield",
+      "year": 1961
+    },
+    {
+      "id": "dbdf8321-cb70-43df-9f6e-32616ed2f837",
+      "author": "Mr. Jake Johnson Jr.",
+      "country": "Albania",
+      "imageLink": "https://picsum.photos/seed/UDmafnt/2759/1484",
+      "language": "English",
+      "pages": 656,
+      "title": "20,000 Leagues Under the Sea",
+      "year": 1944
+    },
+    {
+      "id": "50299316-faa0-4b06-9d31-fd055e5cd398",
+      "author": "Guadalupe Yost",
+      "country": "Mozambique",
+      "imageLink": "https://picsum.photos/seed/a6NVKJ0IF/1481/1391",
+      "language": "French",
+      "pages": 638,
+      "title": "Vanity Fair",
+      "year": 1966
+    },
+    {
+      "id": "fbf04425-e4c1-4fc2-91cf-85fabd7442a8",
+      "author": "Jenny Hagenes",
+      "country": "Aruba",
+      "imageLink": "https://picsum.photos/seed/n43B7lmgOA/8/3998",
+      "language": "English",
+      "pages": 707,
+      "title": "Dora",
+      "year": 1977
+    },
+    {
+      "id": "cc9fe428-48b0-4107-9ddd-3fe37e5252b3",
+      "author": "Earl Spinka",
+      "country": "Falkland Islands (Malvinas)",
+      "imageLink": "https://picsum.photos/seed/4DW7fC/1522/1170",
+      "language": "German",
+      "pages": 487,
+      "title": "Oliver Twist",
+      "year": 2003
+    },
+    {
+      "id": "45d1809e-df8b-4c8e-941d-b838e7bd92b1",
+      "author": "Cassandra Maggio DDS",
+      "country": "Spain",
+      "imageLink": "https://picsum.photos/seed/7SgrMK9olU/2077/3361",
+      "language": "French",
+      "pages": 71,
+      "title": "Faust",
+      "year": 1968
+    },
+    {
+      "id": "321da977-34fd-471f-a49d-0d477bc5b938",
+      "author": "Justin Douglas",
+      "country": "Algeria",
+      "imageLink": "https://picsum.photos/seed/T6M65n/3957/81",
+      "language": "German",
+      "pages": 352,
+      "title": "In Search of Lost Time",
+      "year": 1968
+    },
+    {
+      "id": "be2e9b42-733c-46f0-918f-2204e10966d0",
+      "author": "Rafael Keeling",
+      "country": "South Africa",
+      "imageLink": "https://picsum.photos/seed/YbyrrfT/3674/2346",
+      "language": "French",
+      "pages": 698,
+      "title": "Atlas Shrugged",
+      "year": 2003
+    },
+    {
+      "id": "c535593b-6e2e-44e3-ad87-0f73efed22e6",
+      "author": "Gladys Yundt",
+      "country": "New Zealand",
+      "imageLink": "https://picsum.photos/seed/K61nUM/1292/183",
+      "language": "Japanese",
+      "pages": 751,
+      "title": "It",
+      "year": 1977
+    },
+    {
+      "id": "80d1a471-76f8-40c1-aa54-b8cc31df454c",
+      "author": "Sue Halvorson",
+      "country": "Equatorial Guinea",
+      "imageLink": "https://picsum.photos/seed/Uku1i2/1868/2327",
+      "language": "German",
+      "pages": 776,
+      "title": "The Good Soldier",
+      "year": 1928
+    },
+    {
+      "id": "790beeec-e7af-46a8-b653-54f5e85283b9",
+      "author": "Armando White",
+      "country": "Togo",
+      "imageLink": "https://picsum.photos/seed/AmgjyK/1984/3746",
+      "language": "Russian",
+      "pages": 409,
+      "title": "For Whom the Bell Tolls",
+      "year": 1934
+    },
+    {
+      "id": "5a0ef819-21d5-4670-820a-b45c72018e34",
+      "author": "Marcus Denesik",
+      "country": "Jamaica",
+      "imageLink": "https://picsum.photos/seed/7lBUFCo/2114/842",
+      "language": "Russian",
+      "pages": 132,
+      "title": "A Doll's House",
+      "year": 1910
+    },
+    {
+      "id": "407b6842-b0f0-48a9-ba4e-2e93362d870a",
+      "author": "Nichole Will III",
+      "country": "Finland",
+      "imageLink": "https://picsum.photos/seed/jbbMAq/2218/3459",
+      "language": "Portuguese",
+      "pages": 973,
+      "title": "The Alchemist",
+      "year": 1926
+    },
+    {
+      "id": "f4cbcc2c-2d3b-4eaf-8b20-ba13840061bf",
+      "author": "Kenneth Harvey",
+      "country": "Curacao",
+      "imageLink": "https://picsum.photos/seed/uvloSc0pX/2247/3363",
+      "language": "German",
+      "pages": 59,
+      "title": "If on a Winter's Night a Traveler",
+      "year": 1990
+    },
+    {
+      "id": "89205772-a075-4168-beaf-8cb71cdea273",
+      "author": "Mrs. Sadie Kutch",
+      "country": "Cape Verde",
+      "imageLink": "https://picsum.photos/seed/7mopiz5u/3300/2401",
+      "language": "Russian",
+      "pages": 834,
+      "title": "Leaves of Grass",
+      "year": 1965
+    },
+    {
+      "id": "36cadcf1-e430-47eb-80ec-27b2259f60eb",
+      "author": "Rene Rempel",
+      "country": "Barbados",
+      "imageLink": "https://picsum.photos/seed/cdpQo/851/3584",
+      "language": "Spanish",
+      "pages": 154,
+      "title": "Bible",
+      "year": 1953
+    },
+    {
+      "id": "84f92d56-9b56-4439-a435-184b950f7856",
+      "author": "Vivian Johnson",
+      "country": "Honduras",
+      "imageLink": "https://picsum.photos/seed/IthFJP8IVO/1714/3570",
+      "language": "Portuguese",
+      "pages": 572,
+      "title": "The Grapes of Wrath",
+      "year": 1938
+    },
+    {
+      "id": "05f5842e-2e66-4035-9830-2d80d0c3c2d9",
+      "author": "Renee Cummerata MD",
+      "country": "Mexico",
+      "imageLink": "https://picsum.photos/seed/hdmdev/2489/2676",
+      "language": "German",
+      "pages": 846,
+      "title": "The Golden Notebook",
+      "year": 2014
+    },
+    {
+      "id": "4562e7af-3b68-4139-ac13-4e2642861ef1",
+      "author": "Yvette Russel",
+      "country": "San Marino",
+      "imageLink": "https://picsum.photos/seed/m6yZ7hW/1152/410",
+      "language": "German",
+      "pages": 680,
+      "title": "The Prophet",
+      "year": 1995
+    },
+    {
+      "id": "30a5e099-eafe-4d7b-b958-d2e0a7fa61eb",
+      "author": "Robyn Wehner",
+      "country": "Barbados",
+      "imageLink": "https://picsum.photos/seed/QcJM5m/2090/577",
+      "language": "Chinese",
+      "pages": 232,
+      "title": "Never Let Me Go",
+      "year": 1971
+    },
+    {
+      "id": "fef2e3ce-7d68-45c1-a68b-45b887b8b0dd",
+      "author": "Shawn Miller",
+      "country": "Malta",
+      "imageLink": "https://picsum.photos/seed/OFTYmgNhF/706/2498",
+      "language": "Russian",
+      "pages": 281,
+      "title": "The Alchemist",
+      "year": 1958
+    },
+    {
+      "id": "ff3dffd3-02d8-4f58-9803-d16c1317c4e2",
+      "author": "Evelyn Wiza",
+      "country": "Central African Republic",
+      "imageLink": "https://picsum.photos/seed/AeY5lawgh/3196/2641",
+      "language": "German",
+      "pages": 726,
+      "title": "The Great Gatsby",
+      "year": 1950
+    },
+    {
+      "id": "02ed8ab2-4017-40a5-9190-430f46225c8e",
+      "author": "Mark Kutch",
+      "country": "Nauru",
+      "imageLink": "https://picsum.photos/seed/TaxAlc4a/2735/3685",
+      "language": "Spanish",
+      "pages": 529,
+      "title": "1984",
+      "year": 1963
+    },
+    {
+      "id": "6c1e26e7-2c95-4635-8a69-cb8a10433a55",
+      "author": "Agnes Heathcote IV",
+      "country": "Serbia",
+      "imageLink": "https://picsum.photos/seed/7H8MZR/218/699",
+      "language": "Russian",
+      "pages": 670,
+      "title": "The Sun Also Rises",
+      "year": 1913
+    },
+    {
+      "id": "454eb96d-3c85-42a4-97ed-55b95527a6c3",
+      "author": "Thelma Koss",
+      "country": "Anguilla",
+      "imageLink": "https://picsum.photos/seed/owQPHK3a4Z/270/196",
+      "language": "Spanish",
+      "pages": 892,
+      "title": "The Adventures of Augie March",
+      "year": 1955
+    },
+    {
+      "id": "7f99ef2f-6eb7-4651-8e7d-05721bf435f0",
+      "author": "Inez Roob",
+      "country": "Micronesia",
+      "imageLink": "https://picsum.photos/seed/8CeW7H0/2405/318",
+      "language": "French",
+      "pages": 154,
+      "title": "Herzog",
+      "year": 1979
+    },
+    {
+      "id": "b1eedf61-b306-4700-8336-f2e23afd186a",
+      "author": "Donnie Moore",
+      "country": "Algeria",
+      "imageLink": "https://picsum.photos/seed/GzRKU1N/2308/601",
+      "language": "English",
+      "pages": 785,
+      "title": "And Then There Were None",
+      "year": 2016
+    },
+    {
+      "id": "04a40ab3-519c-447e-8b04-67c782a30978",
+      "author": "Kevin Kuvalis Jr.",
+      "country": "Virgin Islands, British",
+      "imageLink": "https://picsum.photos/seed/jNkP7/2503/2499",
+      "language": "German",
+      "pages": 796,
+      "title": "Adventures of Huckleberry Finn",
+      "year": 1936
+    },
+    {
+      "id": "9adc7d2f-27a6-4777-a04b-8b1900e7044c",
+      "author": "Alicia Terry",
+      "country": "Guinea",
+      "imageLink": "https://picsum.photos/seed/AfaPx8xMi/1728/664",
+      "language": "German",
+      "pages": 96,
+      "title": "The Prince",
+      "year": 1978
+    }
+  ]
+}
