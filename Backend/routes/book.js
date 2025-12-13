@@ -8,7 +8,7 @@ const crypto = require('crypto')
  * query:
  * method: get
 */
-
+// get all books 
 router.get("/", (req, res, next) => {
     //input validation
     const allowedFilter = [
@@ -63,7 +63,7 @@ router.get("/", (req, res, next) => {
 })
 
 
-
+// create new one
 router.post("/", (req, res, next) => {
     //post input validation
     try {
@@ -99,7 +99,31 @@ router.post("/", (req, res, next) => {
     //post send response
     res.status(200).send(newBook)
 });
+// get a single book by id
+router.get("/:bookId", (req, res, next) => {
+    try {
+        const { bookId } = req.params;
 
+        let db = fs.readFileSync("db.json", "utf-8");
+        db = JSON.parse(db);
+        const { books } = db;
+
+        const book = books.find(book => book.id === bookId);
+
+        if (!book) {
+            const exception = new Error(`Book not found`);
+            exception.statusCode = 404;
+            throw exception;
+        }
+
+        res.status(200).send(book);
+    } catch (error) {
+        next(error);
+    }
+});
+
+
+//update new one
 router.put("/:bookId", (req, res, next) => {
     //put input validation
     try {
@@ -145,6 +169,8 @@ router.put("/:bookId", (req, res, next) => {
         next(error)
     }
 });
+
+//delete a book by id
 router.delete("/:bookId", (req, res, next) => {
     //delete input validation
     try {
