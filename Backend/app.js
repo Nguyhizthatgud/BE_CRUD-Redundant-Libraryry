@@ -14,16 +14,19 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
 app.use(cookieParser());
 app.use(express.static(path.join(__dirname, 'public')));
+
+app.use('/', indexRouter);
+
 app.use((req, res, next) => {
     const exception = new Error(`Path not found`);
     exception.statusCode = 404;
     next(exception)
 })
 
-//customize express error handling middleware
+//error handler middleware
 app.use((err, req, res, next) => {
-    res.status(err.statusCode).send(err.message)
-})
-app.use('/', indexRouter);
-
+    res.status(err.statusCode || 500).json({
+        message: err.message || 'Internal Server Error'
+    });
+});
 module.exports = app;
